@@ -1,0 +1,17 @@
+[
+  {
+    "name": "caneta",
+    "price": "1.89",
+    "id": "2b4c0fb3-ddec-4759-94b4-5471ee0d855e"
+  },
+  {
+    "name": "caderno",
+    "price": "14.50",
+    "id": "a529df96-80f7-488f-934c-fce565fc371e"
+  },
+  {
+    "name": "borracha",
+    "price": "3.98",
+    "id": "d25c250a-418d-4d59-ad98-deda307db679"
+  }
+]
